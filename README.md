@@ -6,9 +6,12 @@ This project implements a real-time guitar effects processor using Python. It ap
 ## Features
 
 Real-Time Processing: The application processes audio input from a guitar in real-time.
+
 Various Effects: Apply different effects such as distortion, reverb, and delay.
+
 User Interface: Simple graphical user interface for selecting and controlling effects.
-Installation
+
+## Installation
 
 #### Clone the Repository:
 
@@ -40,9 +43,13 @@ Use the graphical user interface to select and control the effects applied to yo
 ## Dependencies
 
 Python 3.x
+
 Pyaudio: For audio input/output
+
 Numpy: For numerical operations
+
 Scipy: For signal processing
+
 Matplotlib: For any potential visualizations (optional)
 
 ## Contributing
